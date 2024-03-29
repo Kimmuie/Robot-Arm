@@ -2,5 +2,11 @@
 
 This project is created in a computer and robotics class as the final project of grade 11, semester 2. It involves using Arduino for control, designing structures using Onshape, and then 3D printing the designs.
 
-And here is what the project looks like. I have uploaded a video on YouTube, and the link is provided below.
+**Component List**
+- Servo Motor 4 pcs
+- Variable Resistor 4 pcs
+- Plastic Structure 6 pcs 
+- Arduino Uno
+
+And here is what the project looks like. I have uploaded a video on YouTube, and the link is provided below.  
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
