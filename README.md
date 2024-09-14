@@ -38,5 +38,5 @@ There are 4 Variable Resistors that stick on the box, which are used to control 
 
 https://github.com/user-attachments/assets/a89c8bdc-938d-43ce-be13-421c0aae39cd
 
-If you want a longer duration of video or video is unavailable, I have also uploaded a video on YouTube, and the link is provided below. 
+If video is unavailable, I have also uploaded a video on YouTube, and the link is provided below. 
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
