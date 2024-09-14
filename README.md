@@ -22,6 +22,10 @@ This project is created in a computer and robotics class as the final project of
 ### Component List
 <br>  
 
+
+https://github.com/user-attachments/assets/a89c8bdc-938d-43ce-be13-421c0aae39cd
+
+
 ### Illustration / Flowchart
 https://github.com/user-attachments/assets/6cfd4949-dd3d-4865-a857-35b66076e2e0
 <br>  
