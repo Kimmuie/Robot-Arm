@@ -19,13 +19,14 @@ This project is created in a computer and robotics class as the final project of
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
 - Arduino Uno
-<br>  
+<br>
+### IIII
 ### Illustration / Flowchart
 
-https://github.com/user-attachments/assets/89020ef9-03fe-4a0f-b441-32833d6dca76
+
+https://github.com/user-attachments/assets/6cfd4949-dd3d-4865-a857-35b66076e2e0
 
 
-<img src="./illustration/3 Preview.jpg" title="Robot-Arm"height="200"width="200"/>
 <br>
 And here is what the project looks like. I have uploaded a video on YouTube, and the link is provided below.  
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
