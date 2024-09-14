@@ -18,9 +18,7 @@ This project is created in a computer and robotics class as the final project of
 - Servo Motor 4 pcs
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
-- Arduino Uno
-<br>  
-<br>  
+- Arduino Uno    
 ### Illustration
 <br>  
 
