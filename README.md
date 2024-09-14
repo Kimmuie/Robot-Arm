@@ -22,7 +22,7 @@ This project is created in a computer and robotics class as the final project of
 <br>
 <br>
 <br>
-<img src="./illustration/3 Preview.jpg" title="Robot-Arm"width="40" height="40"/>
+<img src="./illustration/3 Preview.jpg" title="Robot-Arm"width="400"/>
 
 <br>
 <br>
@@ -30,7 +30,7 @@ And here is what the project looks like. I have uploaded a video on YouTube, and
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
 <br>
 <br>
-## Used Language/Tools
+### Used Language/Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"width="40" height="40"/>&nbsp;</div>  
