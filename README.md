@@ -8,12 +8,13 @@
 <br>
 <br>
 ### Objective 
-This project is created in a computer and robotics class as the final project of grade 11, semester 2. It involves using Arduino Uno for control and use Servo Motor substitute as joint, designing structures using Onshape, and then 3D printing the designs.  
-โครงการนี้สร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์เป็นโครงการสุดท้ายของชั้นปีที่ 11 ภาคเรียนที่ 2 ซึ่งเกี่ยวข้องกับการใช้ Arduino Uno เพื่อควบคุมและใช้เซอร์โวมอเตอร์ทดแทนข้อต่อ ออกแบบโครงสร้างโดยใช้ Onshape จากนั้นพิมพ์แบบจำลอง 3 มิติ
+This project is created in a computer and robotics class as the final project of grade 11, semester 2. It involves using an Arduino Uno as a microcontroller while controlling, using a Variable Resistor as the control panel and a Servo Motor as the joint, otherwise designing structures using Onshape, and then 3D printing the designs.  
+<br>
+โครงการนี้สร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์เป็นโครงการสุดท้ายของชั้นปีที่ 11 ภาคเรียนที่ 2 ซึ่งเกี่ยวข้องกับการใช้ Arduino Uno เป็นไมโครคอนโทรลเลอร์ ขณะเดียวกันก็ควบคุมโดยใช้ตัว Variable Resistor เป็นแผงควบคุมและใช้ Servo Motor เป็นข้อต่อ นอกจากนี้การออกแบบโครงสร้างใช้ Onshape จากนั้นจึงพิมพ์แบบจำลอง 3 มิติ
 <br>
 <br>
 <br>
-**Component List**
+### Component List
 - Servo Motor 4 pcs
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
