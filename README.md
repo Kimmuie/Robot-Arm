@@ -22,7 +22,7 @@ This project is created in a computer and robotics class as the final project of
 <br>
 <br>
 <br>
-<img src="./illustration/3 Preview.jpg" title="Robot-Arm"width="400"/>
+<img src="./illustration/3 Preview.jpg" title="Robot-Arm"height="200"/>
 
 <br>
 <br>
