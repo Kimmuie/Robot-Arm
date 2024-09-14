@@ -19,16 +19,13 @@ This project is created in a computer and robotics class as the final project of
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
 - Arduino Uno
-<br>
-### IIII
+### Component List
+<br>  
+
 ### Illustration / Flowchart
-
-
 https://github.com/user-attachments/assets/6cfd4949-dd3d-4865-a857-35b66076e2e0
-
-
-<br>
-And here is what the project looks like. I have uploaded a video on YouTube, and the link is provided below.  
+<br>  
+If video isn't available, I have also uploaded a video on YouTube, and the link is provided below. 
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
 <br>  
 ### Used Language/Tools
