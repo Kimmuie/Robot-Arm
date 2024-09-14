@@ -1,4 +1,7 @@
-**Robotarm** is a term that can refer to various types of robotic arms used in different applications. These robotic arms are mechanical devices designed to mimic and perform tasks similar to the movements of a human arm. They typically consist of multiple segments or links connected by joints, allowing for a wide range of motion.  
+#Robot-Arm
+
+**Robotarm** is a term that can refer to various types of robotic arms used in different applications. These robotic arms are mechanical devices designed to mimic and perform tasks similar to the movements of a human arm. They typically consist of multiple segments or links connected by joints, allowing for a wide range of motion.
+**แขนหุ่นยนต์** เป็นคำที่ใช้เรียกแขนหุ่นยนต์หลายประเภทที่ใช้ในงานต่าง ๆ แขนหุ่นยนต์เหล่านี้เป็นอุปกรณ์ทางกลที่ออกแบบมาเพื่อเลียนแบบและทำงานคล้ายกับการเคลื่อนไหวของแขนมนุษย์ โดยทั่วไปแขนหุ่นยนต์ประกอบด้วยส่วนหรือข้อต่อหลายส่วนซึ่งเชื่อมต่อกันด้วยข้อต่อ ซึ่งช่วยให้เคลื่อนไหวได้หลากหลายรูปแบบ
 <br>
 <br>
 **Objective**  
