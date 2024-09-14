@@ -20,10 +20,12 @@ This project is created in a computer and robotics class as the final project of
 - Plastic Structure 6 pcs 
 - Arduino Uno
 <br>  
+<br>  
 ### Flowchart
 <div>
-  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="200" height="200"/>
+  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
 </div>
+<br>  
 ### Used Language/Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"width="40" height="40"/>&nbsp;
