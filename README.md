@@ -19,18 +19,19 @@ This project is created in a computer and robotics class as the final project of
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
 - Arduino Uno
-<br>  
-<br>  
-### Flowchart
-<div>
-  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
-</div>
-<br>  
+<br>
+
 ### Used Language/Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"width="40" height="40"/>&nbsp;</div>  
 </div>
+
+### Flowchart
+<div>
+  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
+</div>
+<br>  
 
 <br>  
 
