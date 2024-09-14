@@ -19,7 +19,6 @@ This project is created in a computer and robotics class as the final project of
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
 - Arduino Uno
-<br>
 
 ### Used Language/Tools
 <div>
@@ -35,6 +34,7 @@ This project is created in a computer and robotics class as the final project of
 
 <br>  
 
+### Demo Video
 
 https://github.com/user-attachments/assets/a89c8bdc-938d-43ce-be13-421c0aae39cd
 
