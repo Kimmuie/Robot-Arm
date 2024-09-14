@@ -19,7 +19,7 @@ This project is created in a computer and robotics class as the final project of
 - Variable Resistor 4 pcs
 - Plastic Structure 6 pcs 
 - Arduino Uno
-<br>
+<br>  
 ### Illustration
 <br>  
 
@@ -30,6 +30,7 @@ If video isn't available, I have also uploaded a video on YouTube, and the link 
 [Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
 <br>  
 ### Flowchart
+  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="40" height="40"/>
 ### Used Language/Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"width="40" height="40"/>&nbsp;
