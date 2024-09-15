@@ -9,7 +9,7 @@
 <br>
 ### Method 
 There are 4 Variable Resistors that stick on the box, which are used to control each 4 Servo Motors. There are 2 main parts. The first are joints that are held by 3 Servo Motors normally they just rotate around to adjust the position. The second part is the grabber/hand, for which I used a jumper wire stick to it and tied it with one of the Servo Motor for grabbing something.
-<br>
+<br>  
 มี Variable Resistor 4 ตัวที่ติดอยู่บนกล่อง ซึ่งใช้ควบคุม Servo Motor 4 ตัว โดยมี 2 ส่วนหลัก ส่วนแรกคือข้อต่อที่ยึดด้วย Servo Motor 3 ตัว โดยปกติจะหมุนเพื่อปรับตำแหน่ง ส่วนที่สองคือตัวจับ ซึ่งผมใช้สายจัมเปอร์มัดไว้ที่จับและมัดไว้ที่ Servo Motor ตัวหนึ่งเพื่อจับสิ่งของ
 <br>
 <br>
