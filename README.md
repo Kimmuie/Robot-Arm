@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Arduino-00979D?logo=arduino" />
-  <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c" />
   <img src="https://img.shields.io/badge/Type-Robotics%20Project-blue" />
 </p>
 
