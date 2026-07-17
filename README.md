@@ -1,42 +1,92 @@
-# Robot-Arm
+# 🤖 Robot Arm
 
-### What is Robot-Arm?
-**Robotarm** is mechanical devices designed to mimic and perform tasks similar to the movements of a human arm. They typically consist of multiple segments or links connected by joints, allowing for a wide range of motion.  . Also this project was created in a computer and robotics class as the final project of grade 11, semester 5.
-<br>  
-**แขนหุ่นยนต์** เป็นอุปกรณ์ทางกลที่ออกแบบมาเพื่อเลียนแบบและทำงานคล้ายกับการเคลื่อนไหวของแขนมนุษย์ โดยทั่วไปแขนหุ่นยนต์ประกอบด้วยส่วนหรือข้อต่อหลายส่วนซึ่งเชื่อมต่อกันด้วยข้อต่อ ซึ่งช่วยให้เคลื่อนไหวได้หลากหลายรูปแบบ นอกจากนี้ โปรเจ็กต์นี้ยังถูกสร้างขึ้นในชั้นเรียนคอมพิวเตอร์และหุ่นยนต์เป็นโปรเจ็กต์สุดท้ายของชั้นมัธยมศึกษาปีที่ 5 ภาคเรียนที่ 2
-<br>
-<br>
-<br>
-### Method 
-There are 4 Variable Resistors that stick on the box, which are used to control each 4 Servo Motors. There are 2 main parts. The first are joints that are held by 3 Servo Motors normally they just rotate around to adjust the position. The second part is the grabber/hand, for which I used a jumper wire stick to it and tied it with one of the Servo Motor for grabbing something.
-<br>  
-มี Variable Resistor 4 ตัวที่ติดอยู่บนกล่อง ซึ่งใช้ควบคุม Servo Motor 4 ตัว โดยมี 2 ส่วนหลัก ส่วนแรกคือข้อต่อที่ยึดด้วย Servo Motor 3 ตัว โดยปกติจะหมุนเพื่อปรับตำแหน่ง ส่วนที่สองคือตัวจับ ซึ่งผมใช้สายจัมเปอร์มัดไว้ที่จับและมัดไว้ที่ Servo Motor ตัวหนึ่งเพื่อจับสิ่งของ
-<br>
-<br>
-<br>
-### Component List
-- Servo Motor 4 pcs
-- Variable Resistor 4 pcs
-- Plastic Structure 6 pcs 
-- Arduino Uno
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Arduino-00979D?logo=arduino" />
+  <img src="https://img.shields.io/badge/Language-C-A8B9CC?logo=c" />
+  <img src="https://img.shields.io/badge/Type-Robotics%20Project-blue" />
+</p>
 
-### Used Language/Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"width="40" height="40"/>&nbsp;</div>  
-</div>
 
-### Flowchart
-<div>
-  <img src="./illustration/Flowchart.jpeg"  title="Flowchart"width="400" height="400"/>
-</div>
-<br>  
+## ✨ Overview
 
-<br>  
+Robot Arm is a robotics project developed as the **final project** for my **Grade 11 Computer and Robotics** course.
 
-### Demo Video
+The objective of the project was to design and build a manually controlled robotic arm capable of moving multiple joints and grasping objects. Inspired by the movement of a human arm, the robot demonstrates fundamental robotics concepts including mechanical design, servo motor control, analog input processing, and Arduino programming.
+
+## ⚙️ How It Works
+
+The robotic arm is controlled using **four variable resistors (potentiometers)** mounted on a custom control box.
+
+Each potentiometer directly controls one servo motor:
+
+* **Three servo motors** control the arm's joints, allowing the arm to rotate and position itself.
+* **One servo motor** controls the gripper, enabling it to open and close for picking up objects.
+
+As the user rotates each potentiometer, the Arduino reads the analog input and immediately adjusts the corresponding servo motor, providing intuitive real-time control.
+
+## 🧩 Components
+
+| Component                           | Quantity |
+| ----------------------------------- | -------: |
+| Servo Motors                        |        4 |
+| Variable Resistors (Potentiometers) |        4 |
+| Plastic Structural Parts            |        6 |
+| Arduino Uno                         |        1 |
+
+## 🖥 Built With
+
+<table>
+<tr align="center">
+<td width="120">
+<a href="https://www.arduino.cc" title="Arduino">
+<img src="https://skillicons.dev/icons?i=arduino" width="48"/>
+</a>
+</td>
+
+<td width="120">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+<img src="https://skillicons.dev/icons?i=c" width="48"/>
+</a>
+</td>
+</tr>
+
+<tr align="center">
+<td>Arduino</td>
+<td>C</td>
+</tr>
+</table>
+
+## 🔄 System Flow
+
+<p align="center">
+<img src="./illustration/Flowchart.jpeg" width="450">
+</p>
+
+## 📸 Development Process
+
+<table>
+<tr>
+<td align="center">
+<img src="./illustration/1 Input Code.jpg" width="100%">
+<br><b>Arduino Program</b>
+</td>
+
+<td align="center">
+<img src="./illustration/2 Print Structure.jpg" width="100%">
+<br><b>Assembly</b>
+</td>
+
+<td align="center">
+<img src="./illustration/3 Preview.jpg" width="100%">
+<br><b>Completed Robot Arm</b>
+</td>
+</tr>
+</table>
+
+## 🎥 Demonstration
 
 https://github.com/user-attachments/assets/a89c8bdc-938d-43ce-be13-421c0aae39cd
 
-If video is unavailable, I have also uploaded a video on YouTube, and the link is provided below. 
-[Testing Preview Here](https://youtube.com/shorts/vR_VhIOKlVw)
+If the embedded video is unavailable, you can also watch it on YouTube:
+
+https://youtube.com/shorts/vR_VhIOKlVw
